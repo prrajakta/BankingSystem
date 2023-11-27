@@ -6,4 +6,3 @@
 * PHP: Backend
 * Database: SQL
 * Bootstrap
-* Java Script
